@@ -1,0 +1,1 @@
+This is a simple project that allows me to practice making a Recipe website.
